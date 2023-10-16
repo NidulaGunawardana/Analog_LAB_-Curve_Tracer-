@@ -78,7 +78,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YYSLMLFG
+DocumentUniqueId=RSXPETQD
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_SECOND\Design Rule Check - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
