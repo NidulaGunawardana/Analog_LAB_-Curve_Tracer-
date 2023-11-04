@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=Q4 Old Footprint=FP-135AR-MFG New Footprint=FP-135AR-MFG
+Change Component Footprint: Designator=Q5 Old Footprint=FP-135AR-MFG New Footprint=FP-135AR-MFG
+Add Component: Footprint Not Found CAPRB500W50L450T300H550
+Add Component: Footprint Not Found CAPRB500W50L450T300H550
+Add Component: Footprint Not Found CAPRB500W50L450T300H550
+Add Component: Footprint Not Found PTN16B50120K1A1
+Add Component: Footprint Not Found PTN16B50120K1A1
+Add Component: Footprint Not Found PTN16B50120K1A1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin VR1-1
+Add Pin To Net: Unknown Pin: Pin VR1-2
+Add Pin To Net: Unknown Pin: Pin VR15-2
+Add Pin To Net: Unknown Pin: Pin VR15-3
+Add Pin To Net: Unknown Pin: Pin VR22-1
+Add Pin To Net: Unknown Pin: Pin VR22-2
+Add Class Member: Failed to add class member : Component C1 FG24X7R1A106KRT00
+Add Class Member: Failed to add class member : Component C3 FG24X7R1A106KRT00
+Add Class Member: Failed to add class member : Component C6 FG24X7R1A106KRT00
+Add Class Member: Failed to add class member : Component VR1 PTN16-B50120K1A1
+Add Class Member: Failed to add class member : Component VR15 PTN16-B50120K1A1
+Add Class Member: Failed to add class member : Component VR22 PTN16-B50120K1A1
+Added Room: Name=Sheet1

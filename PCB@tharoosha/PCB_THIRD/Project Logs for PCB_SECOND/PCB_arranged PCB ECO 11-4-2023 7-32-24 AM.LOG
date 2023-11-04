@@ -1,0 +1,49 @@
+Add Component: Footprint Not Found CAPRB500W50L450T300H550
+Add Component: Footprint Not Found CAPRB500W50L450T300H550
+Add Component: Footprint Not Found CAPRB500W50L450T300H550
+Added Component: Designator=VR1(P160KN0QC15B10K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b10k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA21/91824.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TT Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/BI-Technologies-TT-Electronics/P160KN-0QC15B10K?qs=%252BUYXD5bnyXowj%252Bd8P32cNw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(P160KN0QC15B10K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b10k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA21/91824.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TT Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/BI-Technologies-TT-Electronics/P160KN-0QC15B10K?qs=%252BUYXD5bnyXowj%252Bd8P32cNw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VR3(P160KN0QC15B10K)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/p160kn-0qc15b10k/bi-technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA21/91824.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "16.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TT Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "858-P160KN-0QC15B10K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/BI-Technologies-TT-Electronics/P160KN-0QC15B10K?qs=%252BUYXD5bnyXowj%252Bd8P32cNw%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Added Pin To Net: NetName=VCC Pin=VR1-2
+Added Pin To Net: NetName=NetC6_1 Pin=VR1-3
+Added Pin To Net: NetName=NetQ1_2 Pin=VR2-1
+Added Pin To Net: NetName=NetR8_1 Pin=VR2-2
+Added Pin To Net: NetName=NetD1_2 Pin=VR3-1
+Added Pin To Net: NetName=NetD2_1 Pin=VR3-2
+Add Class Member: Failed to add class member : Component C1 FG24X7R1A106KRT00
+Add Class Member: Failed to add class member : Component C3 FG24X7R1A106KRT00
+Add Class Member: Failed to add class member : Component C6 FG24X7R1A106KRT00
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 P160KN-0QC15B10K
+Added Member To Class: ClassName=Sheet1 Member=Component VR2 P160KN-0QC15B10K
+Added Member To Class: ClassName=Sheet1 Member=Component VR3 P160KN-0QC15B10K
+Added Room: Name=Sheet1
