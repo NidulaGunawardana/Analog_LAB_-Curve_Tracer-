@@ -38,8 +38,13 @@ This section covers the process of selecting components for the Curve Tracer pro
 
 The PCB design plays a vital role in the functionality and reliability of the Curve Tracer device. This section presents the Altium Designer PCB design process, including schematic design, 3D visualization, and final PCB layout. Images showcasing the PCB design and its components are provided for better understanding.
 
+<p>Altium Designs</p>
+
 ![alt](Pictures/Picture2.jpg)
 ![alt](Pictures/Picture3.jpg)
+
+<p>Printed PCB</p>
+
 ![alt](Pictures/Picture4.jpg)
 ![alt](Pictures/Picture5.jpg)
 ![alt](Pictures/Picture6.jpg)
